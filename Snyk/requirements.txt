@@ -1,0 +1,5 @@
+# Intentionally vulnerable versions for Snyk SCA demonstration only.
+# Do not deploy this project to production.
+Django==2.2
+PyYAML==5.3.1
+urllib3==1.23

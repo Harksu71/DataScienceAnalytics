@@ -1,0 +1,4 @@
+# Optional Snyk metadata for demo registration.
+language: python
+packageManager: pip
+manifest: requirements.txt
